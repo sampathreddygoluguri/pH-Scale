@@ -1,0 +1,57 @@
+body{
+    background-color: #babab6;
+  }
+  
+  .a{
+    background-color: #2874A6;
+  }
+  .b{
+    background-color: #2E86C1;
+  }
+  .c{
+    background-color:#3498DB;
+  }
+  .d{
+    background-color: #5DADE2;
+  }
+  .e{
+    background-color: #85C1E9;
+  }
+  .f{
+    background-color: #AED6F1;
+  }
+  .g{
+    background-color: #D6EAF8;
+  }
+  .h{
+    background-color: #27AE60;
+  }
+  .i{
+    background-color:#ffe5ea ;
+  }
+  .j{
+    background-color:#ffdfe5 ;
+  }
+  .k{
+    background-color: #ffd9df;
+  }
+  .l{
+    background-color:#ffd2da ;
+  }
+  .m{
+    background-color:#ffccd5;
+  }
+  .n{
+    background-color:#ffc6d0;
+  }
+  .o{
+    background-color:#ffc0cb;
+  }
+  h1{
+    font-family: Sans-Serif;
+    background-color: white;
+  }
+  p{
+    padding:10px;
+    margin:0px;
+  }
